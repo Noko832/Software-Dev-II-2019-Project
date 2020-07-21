@@ -1,0 +1,7 @@
+<map id="Enemy" name="Enemy">
+<area shape="rect" id="node1" title=" " alt="" coords="186,260,249,287"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,111,139,152"/>
+<area shape="rect" id="node3" title=" " alt="" coords="199,5,246,32"/>
+<area shape="rect" id="node4" href="$structposition.html" title=" " alt="" coords="253,118,320,145"/>
+<area shape="rect" id="node5" title=" " alt="" coords="345,118,391,145"/>
+</map>

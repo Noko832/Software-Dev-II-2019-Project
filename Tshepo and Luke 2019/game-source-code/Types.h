@@ -1,0 +1,19 @@
+#ifndef TYPES_H
+#define TYPES_H
+
+enum  INSTRUCTION {PLAY,QUIT,START, PAUSE,SHOOT_BOTTOM,SHOOT_TOP,NON};
+enum   DIRECTION {BOTTOM_LEFT,BOTTOM_RIGHT,TOP_LEFT,TOP_RIGHT,NAN};
+enum   IDENTIFIER {ALIEN_ARMADA, BULLET, LASER_CANNON_1, LASER_CANNON_2, BOMB, SCREEN, BACKGROUND, BACKGROUND2,  BACKGROUND3};
+enum class  EDGES {BOTTOM_EDGE, TOP_EDGE, LEFT_EDGE, RIGHT_EDGE};
+struct position
+{
+    float x;
+    float y;
+};
+struct dimensions
+{
+    float w;
+    float h;
+};
+
+#endif // TYPES_H

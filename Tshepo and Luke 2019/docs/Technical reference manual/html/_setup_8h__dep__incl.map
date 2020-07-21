@@ -1,0 +1,15 @@
+<map id="Setup.h" name="Setup.h">
+<area shape="rect" id="node1" title=" " alt="" coords="247,5,313,32"/>
+<area shape="rect" id="node2" href="$_player_8h.html" title=" " alt="" coords="134,80,205,107"/>
+<area shape="rect" id="node11" href="$_text_handler_8h.html" title=" " alt="" coords="229,80,331,107"/>
+<area shape="rect" id="node13" href="$_setup_8cpp.html" title=" " alt="" coords="355,80,437,107"/>
+<area shape="rect" id="node3" href="$_bullet_8h.html" title="This class is responsible for modeling a bullet object." alt="" coords="44,155,111,181"/>
+<area shape="rect" id="node10" href="$_player_8cpp.html" title=" " alt="" coords="135,155,219,181"/>
+<area shape="rect" id="node4" href="$_bullet_8cpp.html" title=" " alt="" coords="5,229,85,256"/>
+<area shape="rect" id="node5" href="$_game_engine_8h.html" title="This class is responsible for bringing everything together." alt="" coords="110,229,218,256"/>
+<area shape="rect" id="node6" href="$_game_engine_8cpp.html" title=" " alt="" coords="88,304,211,331"/>
+<area shape="rect" id="node7" href="$_screen_8h.html" title=" " alt="" coords="235,304,309,331"/>
+<area shape="rect" id="node8" href="$main_8cpp.html" title=" " alt="" coords="181,379,256,405"/>
+<area shape="rect" id="node9" href="$_screen_8cpp.html" title=" " alt="" coords="280,379,368,405"/>
+<area shape="rect" id="node12" href="$_text_handler_8cpp.html" title=" " alt="" coords="310,155,426,181"/>
+</map>
